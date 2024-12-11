@@ -38,7 +38,7 @@ Apasionado de la tecnología, en busqueda de aprender siempre algo nuevo y disfr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://markdown-videos.deta.dev/youtube/FpsFhrV0QTk)]([https://youtu.be/NarBox1LkYc](https://youtu.be/FpsFhrV0QTk))
+[![](https://markdown-videos.deta.dev/youtube/FpsFhrV0QTk)](https://youtu.be/FpsFhrV0QTk))) 
 <!--
 **ivan-leon15/ivan-leon15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
